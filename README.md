@@ -1,4 +1,4 @@
-# Movie Recommender System 🎬
+# Movie Recommender System 
 
 A content-based movie recommendation system built with **Python** and **Machine Learning**. This application suggests five similar movies based on the user's input, leveraging natural language processing (NLP) techniques.
 
