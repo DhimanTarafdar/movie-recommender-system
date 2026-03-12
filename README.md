@@ -27,6 +27,5 @@ This project uses metadata (genres, keywords, cast, and crew) from thousands of 
 ├── similarity.pkl        # Cosine similarity matrix (Serialized)
 └── requirements.txt      # Project dependencies
 
-
-
 Small documentation update for project practice.
+Added small project description improvement.
