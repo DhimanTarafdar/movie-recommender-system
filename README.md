@@ -26,3 +26,7 @@ This project uses metadata (genres, keywords, cast, and crew) from thousands of 
 ├── movie_list.pkl        # Processed movie data (Serialized)
 ├── similarity.pkl        # Cosine similarity matrix (Serialized)
 └── requirements.txt      # Project dependencies
+
+
+
+Small documentation update for project practice.
